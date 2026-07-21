@@ -1,4 +1,6 @@
-# Python Learning Repo
+# Notes Repository 
 
-Personal repository for learning Python and CS concepts through tutorials, exercises, and mini-projects.
+Personal repository for CS, Physics, and Math Notes.
 
+If anyone has come across this repo, feel free to use any of these notes. 
+---
